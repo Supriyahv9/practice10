@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<title>table</title>
+	</head>
+	<body>
+		<table border="2" bordercolor="yellow" border-spacing="0" bgcolor="red">
+			<tr>
+				<th>Sl.No</th>
+				<th>Iteam</th>
+				<th>Price</th >
+				
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Soap</td>
+				<td>500</td>
+				
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>mobile</td>
+				<td>10,000</td>
+				
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>Ice</td>
+				<td>9000</td>
+				
+			</tr>
+		</table>
+	</body>
+</html>
